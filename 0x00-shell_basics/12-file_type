@@ -1,2 +1,2 @@
-i#!/bin/bash
-'pwd' /tmp/ iamafile
+#!/bin/bash
+file tpm/iamafile
